@@ -3370,7 +3370,7 @@ msgstr "Module '%s' a été désinstallé"
 
 #: Plugin\System\Controller\ModulesController.php:157
 msgid "Module could not been installed"
-msgstr "Module pourrait pas été installé"
+msgstr "Le module ne peut pas été installé"
 
 #: Plugin\System\Controller\ModulesController.php:160
 msgid "Module has been installed"
@@ -4164,7 +4164,7 @@ msgstr "Montrer le vocabulaire et les termes en arborescence"
 
 #: Plugin\Taxonomy\View\Elements\vocabularies_block_settings.ctp:36
 msgid "Cache terms counters for"
-msgstr "Compteurs termes en Cache pour"
+msgstr "Compteurs termes en Cache pour les : "
 
 #: Plugin\Taxonomy\View\Elements\vocabularies_block_settings.ctp:38;39;40
 msgid "%s Minutes"
